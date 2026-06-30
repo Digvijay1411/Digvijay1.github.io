@@ -1,3 +1,4 @@
+"homepage": "Digvijay1411.github.io/",
 {
   "scripts": {
     "lint:prettier": "prettier . --check",
